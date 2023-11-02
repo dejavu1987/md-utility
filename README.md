@@ -24,3 +24,7 @@ generateMarkdown(csvData);
 #### Output
 
 ![](./src/mdBarChart/screenshot.png)
+
+#### Demo
+
+**[CSV to Markdown Bar Chart Example | StackBlitz](https://stackblitz.com/edit/typescript-7zrqxn?file=index.ts)**
