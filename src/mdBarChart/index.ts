@@ -1,5 +1,7 @@
 export const generateMDBarChart = (csv: string): string => {
   const rows = csv.split("\n");
+  if (rows.length < 2) return "";
+
   const header = rows[0].split(",");
   const data: Record<string, number> = {};
 
