@@ -1,6 +1,6 @@
 {
   "name": "md-utility",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Utility functions for Markdown",
   "main": "build/index.js",
   "types": "build/index.d.ts",
