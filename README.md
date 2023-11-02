@@ -1,4 +1,4 @@
-# md-utility [![npm version](https://badge.fury.io/js/md-utility.svg)](https://badge.fury.io/js/md-utility)
+# md-utility [![npm version](https://badge.fury.io/js/md-utility.svg)](https://badge.fury.io/js/md-utility) ![](https://github.com/dejavu1987/md-utility/actions/workflows/npm-publish.yml/badge.svg)
 
 `md-utility` is a Markdown utility.
 
