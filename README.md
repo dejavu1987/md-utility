@@ -1,10 +1,10 @@
-# md-utility/generateMDBarChart
+# md-utility
 
 `md-utility` is a Markdown utility.
 
 ## Functions:
 
-`generateMDBarChart`
+`generateMDBarChart()`
 
 ### Description
 
